@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Arrays/bin/Debug/net7.0
+/Arrays/obj
+/ArraysTests/bin
+/ArraysTests/obj
+/HashTable/bin/Debug/net7.0
+/HashTable/obj
+/HashTableTests/bin
+/HashTableTests/obj
+/obj
+/leet-code-explore/.vs/leet-code-explore
+/leet-code-explore/.vs/ProjectEvaluation
