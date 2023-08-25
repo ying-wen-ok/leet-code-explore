@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{605EA12A-FE04-40C1-81BC-4CD42D4CF501}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable", "HashTable\HashTable.csproj", "{8D8856AE-D849-458B-91DC-DCAA004C172F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{A4A6049F-D72B-49C9-8A69-7618F3EBD70F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{7CAA515F-A452-4060-8154-5343DC20EBD8}"
@@ -17,14 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{605EA12A-FE04-40C1-81BC-4CD42D4CF501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{605EA12A-FE04-40C1-81BC-4CD42D4CF501}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{605EA12A-FE04-40C1-81BC-4CD42D4CF501}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{605EA12A-FE04-40C1-81BC-4CD42D4CF501}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D8856AE-D849-458B-91DC-DCAA004C172F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D8856AE-D849-458B-91DC-DCAA004C172F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D8856AE-D849-458B-91DC-DCAA004C172F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D8856AE-D849-458B-91DC-DCAA004C172F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A4A6049F-D72B-49C9-8A69-7618F3EBD70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A4A6049F-D72B-49C9-8A69-7618F3EBD70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4A6049F-D72B-49C9-8A69-7618F3EBD70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
