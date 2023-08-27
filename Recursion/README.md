@@ -19,9 +19,28 @@
 - LetterCombinationsOfAPhoneNumbe.cs : https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
 
 
-# Recursion To Iteration
+## Recursion To Iteration
 
 - SameTree.cs : https://leetcode.com/problems/same-tree/description/
 - WellFormedParentheses.cs : https://leetcode.com/problems/generate-parentheses/description/
 - BinaryTreeInorderTraversal.cs : https://leetcode.com/problems/binary-tree-inorder-traversal/description/
 - BinaryTreeLevelOrderTraversal.cs : https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+
+
+## Principle Of Recursion 
+
+- InplaceReverseString.cs : https://leetcode.com/problems/reverse-string/description/
+- SwapNodesInPairs.cs : https://leetcode.com/problems/swap-nodes-in-pairs/description/
+
+
+## Recurrence Relation
+
+- ReverseLinkedList.cs : https://leetcode.com/problems/reverse-linked-list/description/
+- SearchInABinarySearchTree.cs : https://leetcode.com/problems/search-in-a-binary-search-tree/description/
+- PascalsTriangleII.cs : https://leetcode.com/problems/pascals-triangle-ii/description/
+
+
+## Recurrence with Memoization
+
+- FibonacciNumber.cs : https://leetcode.com/problems/fibonacci-number/description/
+- ClimbingStairsSolutionWithRecursion.cs : https://leetcode.com/problems/climbing-stairs/description/
