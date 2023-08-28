@@ -36,9 +36,16 @@
 - MinCostToConnectAllPointsPrimsAlgorithm.cs : https://leetcode.com/problems/min-cost-to-connect-all-points/description/
 
 
-## 
+## Single Source Shortest Path Algorithm
 
-- .cs : 
-- .cs : 
-- .cs : 
-- .cs : 
+- TheNetworkDelayTime.cs : https://leetcode.com/problems/network-delay-time/description/
+- CheapestFlightsWithinKStops.cs : https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
+- PathWithMinimumEffort.cs : https://leetcode.com/problems/path-with-minimum-effort/description/
+
+
+## Kahn's Algorithm
+
+- CourseScheduleII.cs : https://leetcode.com/problems/course-schedule-ii/description/
+- AlienDictionary.cs : https://leetcode.com/problems/alien-dictionary/description/
+- MinimumHeightTrees.cs : https://leetcode.com/problems/minimum-height-trees/description/
+- ParallelCourses.cs : https://leetcode.com/problems/parallel-courses/description/
