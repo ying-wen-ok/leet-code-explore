@@ -1,4 +1,4 @@
-# DynamicProgramming
+# Dynamic Programming
 
 - HouseRobber.cs : https://leetcode.com/problems/house-robber/description/
 - MinCostClimbingStair.cs : https://leetcode.com/problems/min-cost-climbing-stairs/description/
