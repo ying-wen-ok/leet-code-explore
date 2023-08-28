@@ -38,9 +38,15 @@
 - ReverseLinkedList.cs : https://leetcode.com/problems/reverse-linked-list/description/
 - SearchInABinarySearchTree.cs : https://leetcode.com/problems/search-in-a-binary-search-tree/description/
 - PascalsTriangleII.cs : https://leetcode.com/problems/pascals-triangle-ii/description/
+- MergeTwoSortedLists.cs : https://leetcode.com/problems/merge-two-sorted-lists/description/
 
 
-## Recurrence with Memoization
+## Recurrence and Memoization
 
 - FibonacciNumber.cs : https://leetcode.com/problems/fibonacci-number/description/
 - ClimbingStairsSolutionWithRecursion.cs : https://leetcode.com/problems/climbing-stairs/description/
+
+## Recurrence and Complexity  
+- MaximumDepthOfBinaryTree.cs : https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+- PowCalculation.cs : https://leetcode.com/problems/powx-n/description/
+
