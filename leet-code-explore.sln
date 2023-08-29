@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "Dynam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{D668857A-93B2-41BA-988D-B472C65F7319}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D668857A-93B2-41BA-988D-B472C65F7319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D668857A-93B2-41BA-988D-B472C65F7319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D668857A-93B2-41BA-988D-B472C65F7319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
