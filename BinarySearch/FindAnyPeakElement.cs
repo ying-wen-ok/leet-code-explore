@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace BinarySearch
 {
-    public class FindGloablePeakElement
+    public class FindAnyPeakElement
     {
         public int FindPeakElement(int[] arr)
         {
