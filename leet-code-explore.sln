@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{12319CA4-FC36-4B08-8624-DCE49F5911C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12319CA4-FC36-4B08-8624-DCE49F5911C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12319CA4-FC36-4B08-8624-DCE49F5911C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12319CA4-FC36-4B08-8624-DCE49F5911C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12319CA4-FC36-4B08-8624-DCE49F5911C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
