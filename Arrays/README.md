@@ -6,28 +6,28 @@
 -  ThirdMaximumNumber.cs : https://leetcode.com/problems/third-maximum-number/description/
 
 
-## inserting-items-into-an-array & Two Pointers
+## Inserting Items Into An Array & Two Pointers
 
 -  DuplicateZero.cs : https://leetcode.com/problems/duplicate-zeros/description/
 -  MergeSortedArray.cs : https://leetcode.com/problems/merge-sorted-array/description/
 -  SquaresofaSortedArray.cs : https://leetcode.com/problems/squares-of-a-sorted-array/description/
 
 
-## deleting-items-from-an-array
+## Deleting Items From An Array & Two Pointers
 
 -  RemoveElements.cs : https://leetcode.com/problems/remove-element/description/
--  RemoveDuplicatesfromSortedArray.cs :
+-  RemoveDuplicatesfromSortedArray.cs : https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+-  MoveZeroesInArray.cs : https://leetcode.com/problems/move-zeroes/description/
 
 
-## searching-for-items-in-an-array
+## Searching For Items In An Array
 
--  ValidMountainArray.cs :
+-  TheValidMountainArray.cs : https://leetcode.com/problems/valid-mountain-array/description/
 	
 
-## in-place-operations
+## In Place Operations
 
--  FindAllNumbersDisappearedinanArray.cs : https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
--  ReplaceElementswithGreatestElementonRightSide.cs :
--  MoveZeroes.cs :
--  SortArrayByParity.cs :
--  RemoveElement.cs :
+-  FindAllNumbersDisappearedInAnArray.cs : https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+-  MoveZeroesInArray.cs : https://leetcode.com/problems/move-zeroes/description/
+-  RemoveElements.cs : https://leetcode.com/problems/remove-element/description/
+-  RemoveDuplicatesfromSortedArray.cs : https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/

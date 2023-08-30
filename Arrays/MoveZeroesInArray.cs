@@ -3,27 +3,30 @@ using System.Collections.Generic;
 
 namespace Arrays
 {
-    public class RemoveElements
+    public class MoveZeroesInArray
     {
-        public int RemoveElement(int[] nums, int val)
+        public void MoveZeroes(int[] nums)
         {
             int n = nums.Length;
             int i = 0;
-            int j = n - 1;
-           
-            while (i <= j)
+            int j = 0;
+
+            while (j < n && i < n)
             {
-                if (nums[i] == val)
+                if (nums[i] == 0)
                 {
+                    if (i == n - 1) break;
+
+                    j = Math.Max(j, i + 1);
                     nums[i] = nums[j];
-                    j--;
+                    nums[j] = 0;
+                    j++;
                 }
                 else
                 {
                     i++;
                 }
             }
-            return i;
         }
     }
 }
