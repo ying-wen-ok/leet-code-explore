@@ -25,9 +25,9 @@
 - IntersectionofTwoArraysII.cs :  https://leetcode.com/problems/contains-duplicate-ii/description/
 - FirstUniqueCharacterInAString.cs :  https://leetcode.com/problems/logger-rate-limiter/description/
 
+## Design the Key - Grouping information by key
+- GroupAnagramsTogether.cs :  https://leetcode.com/problems/group-anagrams/description/
+- GroupShiftedStrings.cs : https://leetcode.com/problems/group-shifted-strings/description/
+- ValidSudoku.cs : https://leetcode.com/problems/valid-sudoku/description/
+- FindAllDuplicateSubtrees.cs : https://leetcode.com/problems/find-duplicate-subtrees/description/ 
 
-- .cs :  
-- .cs : 
-- .cs : 
-- .cs :  
-- .cs : 
