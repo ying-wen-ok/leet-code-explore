@@ -10,7 +10,7 @@
 - TheSingleNumber.cs : https://leetcode.com/problems/single-number/description/
 - IntersectionOfTwoArrays.cs : https://leetcode.com/problems/intersection-of-two-arrays/description/
 - HappyNumber.cs : https://leetcode.com/problems/happy-number/description/
-
+- JewelsAndStones.cs : https://leetcode.com/problems/jewels-and-stones/description/
 
 ##	Pratical Application - Hash Map
 
@@ -31,3 +31,10 @@
 - ValidSudoku.cs : https://leetcode.com/problems/valid-sudoku/description/
 - FindAllDuplicateSubtrees.cs : https://leetcode.com/problems/find-duplicate-subtrees/description/ 
 
+## More Pratical Application
+- LongestSubstringWithoutRepeatingCharacters.cs : https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+- TwoSumIIIDataStructureDesign.cs : https://leetcode.com/problems/two-sum-iii-data-structure-design/
+- FourSumII.cs : https://leetcode.com/problems/4sum-ii/description/
+- TopKFrequentElements.cs : https://leetcode.com/problems/top-k-frequent-elements/description/
+- UniqueWordAbbreviation.cs : https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1137/
+- InsertDeleteGetRandomConstantTime.cs : https://leetcode.com/problems/insert-delete-getrandom-o1/description/
