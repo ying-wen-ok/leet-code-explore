@@ -36,5 +36,5 @@
 - TwoSumIIIDataStructureDesign.cs : https://leetcode.com/problems/two-sum-iii-data-structure-design/
 - FourSumII.cs : https://leetcode.com/problems/4sum-ii/description/
 - TopKFrequentElements.cs : https://leetcode.com/problems/top-k-frequent-elements/description/
-- UniqueWordAbbreviation.cs : https://leetcode.com/explore/learn/card/hash-table/187/conclusion-hash-table/1137/
+- UniqueWordAbbreviation.cs : https://leetcode.com/problems/unique-word-abbreviation/description/
 - InsertDeleteGetRandomConstantTime.cs : https://leetcode.com/problems/insert-delete-getrandom-o1/description/
