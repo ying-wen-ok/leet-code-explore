@@ -6,7 +6,7 @@
 - MovingAverageFromDataStream.cs : https://leetcode.com/problems/moving-average-from-data-stream/description/
 
 ## Queue and BFS
-- WallsAndGates.cs : https://leetcode.com/problems/walls-and-gates/description/
+- WallsAndGatesShortedPath.cs : https://leetcode.com/problems/walls-and-gates/description/
 - NumberOfIslandsBFS.cs : https://leetcode.com/problems/number-of-islands/description/
 - OpenTheLock.cs : https://leetcode.com/problems/open-the-lock/description/
 - PerfectSquares.cs : https://leetcode.com/problems/perfect-squares/description/

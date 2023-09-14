@@ -5,21 +5,21 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{A4A6049F-D72B-49C9-8A69-7618F3EBD70F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{7CAA515F-A452-4060-8154-5343DC20EBD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructure", "DataStructure\DataStructure.csproj", "{7CAA515F-A452-4060-8154-5343DC20EBD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{62941005-C5CC-4D56-8632-BE200D24A0BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{62941005-C5CC-4D56-8632-BE200D24A0BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{D668857A-93B2-41BA-988D-B472C65F7319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graph", "Graph\Graph.csproj", "{D668857A-93B2-41BA-988D-B472C65F7319}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{27AC56B7-CFFC-4139-BDFB-D690D75C3E48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{12319CA4-FC36-4B08-8624-DCE49F5911C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{12319CA4-FC36-4B08-8624-DCE49F5911C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndStrings", "ArraysAndStrings\ArraysAndStrings.csproj", "{DCE44C12-C3FC-4B3B-A9BD-E0E40AF49CDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysAndStrings", "ArraysAndStrings\ArraysAndStrings.csproj", "{DCE44C12-C3FC-4B3B-A9BD-E0E40AF49CDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashTable", "HashTable\HashTable.csproj", "{92407D81-FC32-42EF-8B64-BF20FE980E38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashTable", "HashTable\HashTable.csproj", "{92407D81-FC32-42EF-8B64-BF20FE980E38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueAndStack", "QueueAndStack\QueueAndStack.csproj", "{276D3EA4-0687-4370-B0D9-37D85ACBCDA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueAndStack", "QueueAndStack\QueueAndStack.csproj", "{276D3EA4-0687-4370-B0D9-37D85ACBCDA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
