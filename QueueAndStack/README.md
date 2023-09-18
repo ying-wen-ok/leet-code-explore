@@ -19,7 +19,7 @@
 
 ## Stack and DFS
 - NumberOfIslandsDFS.cs : https://leetcode.com/problems/number-of-islands/description/
-- CloneGraph.cs : https://leetcode.com/problems/clone-graph/description/
+- CloneTheGraph.cs : https://leetcode.com/problems/clone-graph/description/
 - TargetSum.cs : https://leetcode.com/problems/target-sum/description/
 - BinaryTreeInorderTraversal.cs : https://leetcode.com/problems/binary-tree-inorder-traversal/description/
 

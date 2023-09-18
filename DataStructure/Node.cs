@@ -7,6 +7,7 @@
         public Node? right;
         public Node? next;
         public IList<Node> children;
+        public IList<Node> neighbors;
 
         public Node() { }
 
@@ -17,6 +18,7 @@
             right = null;
             next = null;
             children = new List<Node>();
+            neighbors = new List<Node>();
         }
 
         public Node(int _val, Node _left, Node _right)
@@ -26,6 +28,7 @@
             right = _right;
             next = null;
             children = new List<Node>();
+            neighbors = new List<Node>();
         }
 
         public Node(int _val, Node _left, Node _right, Node _next)
@@ -35,12 +38,14 @@
             right = _right;
             next = _next;
             children = new List<Node>();
+            neighbors = new List<Node>();
         }
 
         public Node(int _val, IList<Node> _children)
         {
             val = _val;
             children = _children;
+            neighbors = new List<Node>();
         }
     }
 }
