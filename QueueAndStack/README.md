@@ -14,7 +14,7 @@
 ## Stack: Last-in-first-out Data Structure
 - MinStack.cs : https://leetcode.com/problems/min-stack/description/
 - ValidParentheses.cs : https://leetcode.com/problems/valid-parentheses/description/
-- DailyTemperatures.cs : https://leetcode.com/problems/daily-temperatures/description/
+- DailyTemperature.cs : https://leetcode.com/problems/daily-temperatures/description/
 - EvaluateReversePolishNotation.cs : https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
 
 ## Stack and DFS
