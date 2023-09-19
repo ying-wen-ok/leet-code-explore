@@ -16,6 +16,7 @@
 - ValidParentheses.cs : https://leetcode.com/problems/valid-parentheses/description/
 - DailyTemperature.cs : https://leetcode.com/problems/daily-temperatures/description/
 - EvaluateReversePolishNotation.cs : https://leetcode.com/problems/evaluate-reverse-polish-notation/description/
+- DecodeTheString.cs : https://leetcode.com/problems/decode-string/description/
 
 ## Stack and DFS
 - NumberOfIslandsDFS.cs : https://leetcode.com/problems/number-of-islands/description/
@@ -26,7 +27,7 @@
 ## 
 - ImplementQueueUsingStacks.cs : https://leetcode.com/problems/implement-queue-using-stacks/description/
 - ImplementStackUsingQueues.cs : https://leetcode.com/problems/implement-stack-using-queues/description/
-- DecodeString.cs : https://leetcode.com/problems/decode-string/description/
+
 - FloodFill.cs : https://leetcode.com/problems/flood-fill/description/
 - Matrix01.cs : https://leetcode.com/problems/01-matrix/description/
 - KeysAndRooms.cs : https://leetcode.com/problems/keys-and-rooms/description/
