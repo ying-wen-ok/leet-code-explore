@@ -18,3 +18,9 @@
 - RemoveNthNodeFromEndOfList.cs: https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
 -- solutiuon 1 that runs in O(n) time and use O(n) memory 
 -- solutiuon 2 use two pointer that runs in O(n) time and use O(1) memory
+- 
+
+## Two-Pointer in Linked List
+- ReverseLinkedList.cs : https://leetcode.com/problems/reverse-linked-list/description/
+-- solutiuon 1 that runs in O(n) time and use O(n) memory 
+-- solutiuon 2 that runs in O(n) time and use O(1) memory 
