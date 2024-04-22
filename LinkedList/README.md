@@ -20,7 +20,14 @@
 -- solutiuon 2 use two pointer that runs in O(n) time and use O(1) memory
 - 
 
-## Two-Pointer in Linked List
+## Classic Problems in Linked List
 - ReverseLinkedList.cs : https://leetcode.com/problems/reverse-linked-list/description/
+-- solutiuon 1 that runs in O(n) time and use O(n) memory 
+-- solutiuon 2 that runs in O(n) time and use O(1) memory 
+
+- OddEvenLinkedList.cs : https://leetcode.com/problems/odd-even-linked-list/description/
+-- solutiuon that runs in O(n) time and use O(1) memory 
+
+- PalindromeLinkedList.cs : https://leetcode.com/problems/palindrome-linked-list/description/
 -- solutiuon 1 that runs in O(n) time and use O(n) memory 
 -- solutiuon 2 that runs in O(n) time and use O(1) memory 

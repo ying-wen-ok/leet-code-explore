@@ -14,16 +14,16 @@ namespace LinkedList
             ListNode i = head;
             if (i == null) return null;
             Stack<ListNode> s = new Stack<ListNode>();
-            while(i != null) 
-            { 
-                s.Push(i); 
-                i = i.next; 
+            while (i != null)
+            {
+                s.Push(i);
+                i = i.next;
             }
 
             ListNode newHead = s.Pop();
             ListNode cur = newHead;
-            while (s.Count > 0)  
-            {   
+            while (s.Count > 0)
+            {
                 ListNode j = s.Pop();
                 j.next = null;
                 cur.next = j;
@@ -35,24 +35,21 @@ namespace LinkedList
 
         public ListNode ReverseList(ListNode head)
         {
-            ListNode i = head;
-            if (i == null) return null;
+            if (head == null || head.next == null) return head;
 
-            ListNode iNext = i.next;
-            if (iNext == null) return head;
-            i.next = null;
-            while (iNext != null)
+            ListNode cur = head;
+            ListNode next = cur.next;
+            cur.next = null;
+
+            while (next != null)
             {
-                (i, iNext) = reverse(i, iNext);
-            }
-            return i;
-        }
+                ListNode nextNext = next.next;
+                next.next = cur;
 
-        private (ListNode next, ListNode nextNext) reverse(ListNode cur, ListNode next)
-        {
-            ListNode nextNext = next.next;
-            next.next = cur;
-            return (next, nextNext);
+                (cur, next) = (next, nextNext);
+            }
+            return cur;
         }
     }
+
 }
