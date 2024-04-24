@@ -31,3 +31,8 @@
 - PalindromeLinkedList.cs : https://leetcode.com/problems/palindrome-linked-list/description/
 -- solutiuon 1 that runs in O(n) time and use O(n) memory 
 -- solutiuon 2 that runs in O(n) time and use O(1) memory 
+
+## Doubly Linked List
+
+- DesignDoublyLinkedList.cs : https://leetcode.com/problems/reverse-linked-list/description/
+
