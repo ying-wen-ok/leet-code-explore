@@ -9,6 +9,9 @@
         public IList<Node> children;
         public IList<Node> neighbors;
 
+        public Node prev;
+        public Node child;
+
         public Node() { }
 
         public Node(int _val)
