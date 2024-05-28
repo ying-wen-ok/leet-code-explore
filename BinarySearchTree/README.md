@@ -18,3 +18,4 @@
 ## Introduction to the Height-Balanced BST
 - BalancedBinaryTree.cs : https://leetcode.com/problems/balanced-binary-tree/description/
 - ConvertSortedArrayToBinarySearchTree.cs : https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+-- This is a solution using Binary Search Tree, without balancing it. Hence, The time complex in the good case the will be O(n*logn), worset case will be O(n*n)  
