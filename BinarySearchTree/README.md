@@ -14,8 +14,10 @@
 - KthLargestElementInAStream.cs : https://leetcode.com/problems/kth-largest-element-in-a-stream/description/
 - LowestCommonAncestorOfABinarySearchTree.cs : https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
 - ContainsDuplicateIII.cs : https://leetcode.com/problems/contains-duplicate-iii/description/
+-- This is a solution using Binary Search Tree, without balancing it. Hence, The time complex in the good case the will be O(n*logn), worset case will be O(n*n)  
 
 ## Introduction to the Height-Balanced BST
+- ContainsDuplicateIIIBBSTSolution.cs: https://leetcode.com/problems/contains-duplicate-iii/description/
+-- This is a solution using Balanced Binary Search Tree(SortedList in C#). The time complex is O(n*n)  
 - BalancedBinaryTree.cs : https://leetcode.com/problems/balanced-binary-tree/description/
 - ConvertSortedArrayToBinarySearchTree.cs : https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
--- This is a solution using Binary Search Tree, without balancing it. Hence, The time complex in the good case the will be O(n*logn), worset case will be O(n*n)  
